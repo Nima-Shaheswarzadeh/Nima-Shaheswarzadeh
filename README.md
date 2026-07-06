@@ -1,143 +1,171 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
+<!-- Animated Typing SVG Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=800&color=5076bd&center=true&vCenter=true&width=700&lines=Creative+Developer;AI+%26+Web+Explorer;Unity+%2B+Design+%2B+Code;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=500&color=5076bd&center=true&vCenter=true&width=600&lines=Hello%2C+World!+I'm+Nima+%F0%9F%91%8B;Creative+Developer+%7C+Design+%2B+Code;AI+Enthusiast+%F0%9F%A4%96;Open+Source+Lover+%E2%9D%A4%EF%B8%8F;Let's+Build+the+Future+Together" alt="Typing SVG" />
 </a>
 
 <br/>
 <br/>
 
-<!-- Title & Subtitle -->
-<h1>Nima Shaheswarzadeh</h1>
-<h3>🇮🇷 Creative Developer & AI Enthusiast</h3>
+<!-- Large Centered Title with Neon Glow -->
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand" width="40" height="40" />
+  <span style="color:#5076bd; text-shadow: 0 0 10px #5076bd88;">Nima Shaheswarzadeh</span>
+</h1>
 
-<!-- Slogan -->
-<p><em>Building tomorrow's interfaces with design, code, and artificial intelligence.</em></p>
+<!-- Professional Subtitle -->
+<h3 style="color:#BBBBBB; margin-top:-10px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />
+  Creative Developer from Iran 🇮🇷
+</h3>
+
+<!-- Unique Personal Slogan -->
+<p style="font-size:16px; color:#CCCCCC; max-width:600px; margin:20px auto; font-style:italic;">
+  "Crafting Digital Experiences at the Intersection of Art & Intelligence."
+</p>
 
 </div>
 
 ---
 
-### 🧠 About Me
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Technologist" width="30" height="30" /> About Me
 
 <table align="center">
-  <tr>
-    <td>
-      <p>
-        I’m Nima, a developer who blends <strong>creative design</strong> with <strong>modern engineering</strong>.  
-        I craft immersive 3D worlds in <strong>Unity</strong>, shape visual identities with <strong>Photoshop</strong> and <strong>Illustrator</strong>,  
-        and now I’m diving deep into <strong>Artificial Intelligence</strong> and <strong>Web Development</strong> to build smart, interactive experiences.  
-        Open source is my playground—I believe great code is art.
-      </p>
-      <ul>
-        <li>🎮 Unity & game development</li>
-        <li>🎨 UI/UX & graphic design</li>
-        <li>🤖 AI & modern web</li>
-        <li>☕ Fueled by Persian tea</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td>
+
+🎨 I’m a creative mind who thrives where **design** meets **code**.  
+🕹️ I build immersive experiences with **Unity** and craft pixel‑perfect visuals using **Adobe Photoshop & Illustrator**.  
+🤖 Currently diving deep into **Artificial Intelligence** and **Modern Web Development**.  
+🌱 I love contributing to **open source** and exploring futuristic technologies.  
+⚡ Fun fact: I can switch between designing beautiful UIs and coding game logic—all while sipping Persian tea.  
+
+</td>
+</tr>
 </table>
 
 <br/>
 
-### 🚀 Current Focus
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Current Focus
 
-<div align="center">
-  
-  > Mastering machine learning fundamentals and full‑stack web technologies to create intelligent, user‑centric applications.
+<div align="center" style="background:#0d1117; padding:20px; border-radius:15px; margin:20px; border:1px solid #5076bd33;">
+
+🎯 **Mastering AI & Modern Web Technologies**  
+🚀 Building a solid foundation for the next generation of interactive, intelligent applications.
 
 </div>
 
 <br/>
 
-### ⚙️ Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" height="30" /> Tech Stack
 
-<p align="center">
-  <strong>Currently working with</strong><br/>
+<div align="center">
+  <h4>⚡ Currently Working With</h4>
   <img src="https://skillicons.dev/icons?i=unity,cs,ps,ai,git,github,vscode&theme=dark&perline=7" alt="Current Skills" />
-</p>
-
-<p align="center">
-  <strong>Learning & exploring</strong><br/>
+  
+  <h4>🌱 Currently Learning</h4>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,html,css,js&theme=dark&perline=5" alt="Learning Skills" />
-</p>
+</div>
 
 <br/>
 
-### 📊 GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" height="30" /> GitHub Analytics
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/Nima-Shaheswarzadeh">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nima-Shaheswarzadeh&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=true&title_color=5076bd&icon_color=5076bd&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nima-Shaheswarzadeh&layout=compact&langs_count=8&theme=algolia&hide_border=true&title_color=5076bd&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nima-Shaheswarzadeh&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=true&title_color=5076bd&icon_color=5076bd&text_color=FFFFFF&bg_color=0d1117" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nima-Shaheswarzadeh&layout=compact&langs_count=8&theme=algolia&hide_border=true&title_color=5076bd&text_color=FFFFFF&bg_color=0d1117" alt="Top Languages" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nima-Shaheswarzadeh&theme=algolia&hide_border=true&background=0d1117&stroke=5076bd&ring=5076bd&fire=5076bd&currStreakLabel=5076bd&sideNums=5076bd&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
-</p>
-
-<p align="center">
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nima-Shaheswarzadeh&theme=algolia&hide_border=true&background=0d1117&stroke=5076bd&ring=5076bd&fire=FF6600&currStreakLabel=5076bd&sideNums=5076bd&currStreakNum=FFFFFF&sideLabels=BBBBBB&dates=999999" alt="GitHub Streak" />
+  
+  <br/>
+  
   <img src="https://github-profile-trophy.vercel.app/?username=Nima-Shaheswarzadeh&theme=algolia&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nima-Shaheswarzadeh&bg_color=0d1117&color=5076bd&line=5076bd&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nima-Shaheswarzadeh.Nima-Shaheswarzadeh&left_color=0d1117&right_color=5076bd&left_text=Profile%20Views" alt="Visitors" />
-</p>
+  
+  <br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nima-Shaheswarzadeh&bg_color=0d1117&color=5076bd&line=5076bd&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  
+  <br/>
+  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nima-Shaheswarzadeh.Nima-Shaheswarzadeh&left_color=black&right_color=5076bd&left_text=Profile%20Views" alt="Visitors" />
+</div>
 
 <br/>
 
-### 🤝 Connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="30" height="30" /> Connect With Me
 
-<p align="center">
+<div align="center">
+  
   <a href="https://your-website.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-5076bd?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
   </a>
+  
   <a href="https://instagram.com/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-5076bd?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
+  
   <a href="https://t.me/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-5076bd?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
   </a>
+  
   <a href="mailto:your-email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-5076bd?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/>
   </a>
+  
   <a href="https://github.com/Nima-Shaheswarzadeh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-5076bd?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/>
   </a>
-</p>
+
+</div>
 
 <br/>
 
-### 💬 Today’s Quote
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" /> Today's Quote
 
-<p align="center">
-  <em>“The best way to predict the future is to invent it.”</em><br/>
-  — Alan Kay
-</p>
+<div align="center" style="font-size:18px; color:#5076bd; background:#0d1117; padding:20px; border-radius:12px; border-left:5px solid #5076bd; margin:20px; max-width:600px;">
+  
+  > *"The best way to predict the future is to invent it."*  
+  – Alan Kay
+
+</div>
 
 <br/>
 
-### 🐍 Contribution Snake
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" height="30" /> Contribution Snake
 
-<p align="center">
+<div align="center">
+  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nima-Shaheswarzadeh/Nima-Shaheswarzadeh/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nima-Shaheswarzadeh/Nima-Shaheswarzadeh/output/github-contribution-grid-snake.svg">
     <img alt="Snake animation" src="https://raw.githubusercontent.com/Nima-Shaheswarzadeh/Nima-Shaheswarzadeh/output/github-contribution-grid-snake.svg">
   </picture>
-</p>
+  
+  <br/>
+  <i>🐍 Eating my contributions, one pixel at a time! (After you set up the workflow)</i>
+
+</div>
 
 <br/>
-<br/>
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5076bd&height=100&section=footer" width="100%" />
-</p>
+<!-- Beautiful Footer -->
+<div align="center" style="color:#888888; margin-top:50px;">
+  <p>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Heart" width="20" height="20" /> 
+    Crafted with passion by <strong style="color:#5076bd;">Nima Shaheswarzadeh</strong> 
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Heart" width="20" height="20" />
+  </p>
+  <p style="font-size:12px;">© 2025 – All rights reserved.</p>
+</div>
+
+<!-- Wave Footer with reduced height -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5076bd&height=100&section=footer&text=&fontSize=0" width="100%" />
+
+</div>
