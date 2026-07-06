@@ -2,8 +2,11 @@ name: Generate snake animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # هر روز ساعت ۳:۳۰ صبح به وقت UTC اجرا می‌شود
-  workflow_dispatch:       # امکان اجرای دستی
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:                # این بخش را اضافه کن
+  contents: write           # اجازه نوشتن در مخزن
 
 jobs:
   generate:
@@ -14,7 +17,7 @@ jobs:
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Nima-Shaheswarzadeh   # نام کاربری خودت را بذار
+          github_user_name: Nima-Shaheswarzadeh
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
