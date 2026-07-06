@@ -165,7 +165,7 @@
   <p style="font-size:12px;">© 2025 – All rights reserved.</p>
 </div>
 
-<!-- Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5076bd&height=200&section=footer&text=&fontSize=0" width="100%" />
+<!-- Wave Footer with reduced height -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5076bd&height=100&section=footer&text=&fontSize=0" width="100%" />
 
 </div>
