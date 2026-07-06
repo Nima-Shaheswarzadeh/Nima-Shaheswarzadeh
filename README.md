@@ -2,7 +2,7 @@
 
 <!-- Animated Typing SVG Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=500&color=00F0FF&center=true&vCenter=true&width=600&lines=Hello%2C+World!+I'm+Nima+%F0%9F%91%8B;Creative+Developer+%7C+Design+%2B+Code;AI+Enthusiast+%F0%9F%A4%96;Open+Source+Lover+%E2%9D%A4%EF%B8%8F;Let's+Build+the+Future+Together" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=500&color=5076bd&center=true&vCenter=true&width=600&lines=Hello%2C+World!+I'm+Nima+%F0%9F%91%8B;Creative+Developer+%7C+Design+%2B+Code;AI+Enthusiast+%F0%9F%A4%96;Open+Source+Lover+%E2%9D%A4%EF%B8%8F;Let's+Build+the+Future+Together" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -11,7 +11,7 @@
 <!-- Large Centered Title with Neon Glow -->
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand" width="40" height="40" />
-  <span style="color:#00F0FF; text-shadow: 0 0 10px #00F0FF88;">Nima Shaheswarzadeh</span>
+  <span style="color:#5076bd; text-shadow: 0 0 10px #5076bd88;">Nima Shaheswarzadeh</span>
 </h1>
 
 <!-- Professional Subtitle -->
@@ -51,7 +51,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Current Focus
 
-<div align="center" style="background:#0d1117; padding:20px; border-radius:15px; margin:20px; border:1px solid #00F0FF33;">
+<div align="center" style="background:#0d1117; padding:20px; border-radius:15px; margin:20px; border:1px solid #5076bd33;">
 
 🎯 **Mastering AI & Modern Web Technologies**  
 🚀 Building a solid foundation for the next generation of interactive, intelligent applications.
@@ -76,13 +76,13 @@
 
 <div align="center">
   <a href="https://github.com/Nima-Shaheswarzadeh">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nima-Shaheswarzadeh&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF&bg_color=0d1117" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nima-Shaheswarzadeh&layout=compact&langs_count=8&theme=algolia&hide_border=true&title_color=00F0FF&text_color=FFFFFF&bg_color=0d1117" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nima-Shaheswarzadeh&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=true&title_color=5076bd&icon_color=5076bd&text_color=FFFFFF&bg_color=0d1117" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nima-Shaheswarzadeh&layout=compact&langs_count=8&theme=algolia&hide_border=true&title_color=5076bd&text_color=FFFFFF&bg_color=0d1117" alt="Top Languages" />
   </a>
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nima-Shaheswarzadeh&theme=algolia&hide_border=true&background=0d1117&stroke=00F0FF&ring=00F0FF&fire=FF6600&currStreakLabel=00F0FF&sideNums=00F0FF&currStreakNum=FFFFFF&sideLabels=BBBBBB&dates=999999" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nima-Shaheswarzadeh&theme=algolia&hide_border=true&background=0d1117&stroke=5076bd&ring=5076bd&fire=FF6600&currStreakLabel=5076bd&sideNums=5076bd&currStreakNum=FFFFFF&sideLabels=BBBBBB&dates=999999" alt="GitHub Streak" />
   
   <br/>
   
@@ -90,11 +90,11 @@
   
   <br/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nima-Shaheswarzadeh&bg_color=0d1117&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nima-Shaheswarzadeh&bg_color=0d1117&color=5076bd&line=5076bd&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
   
   <br/>
   
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nima-Shaheswarzadeh.Nima-Shaheswarzadeh&left_color=black&right_color=00F0FF&left_text=Profile%20Views" alt="Visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nima-Shaheswarzadeh.Nima-Shaheswarzadeh&left_color=black&right_color=5076bd&left_text=Profile%20Views" alt="Visitors" />
 </div>
 
 <br/>
@@ -104,46 +104,24 @@
 <div align="center">
   
   <a href="https://your-website.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-00F0FF?style=for-the-badge&logo=About.me&logoColor=black" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-5076bd?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
   </a>
   
   <a href="https://instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-00F0FF?style=for-the-badge&logo=Instagram&logoColor=black" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-5076bd?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
   
   <a href="https://t.me/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-00F0FF?style=for-the-badge&logo=Telegram&logoColor=black" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-5076bd?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
   </a>
   
   <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-00F0FF?style=for-the-badge&logo=Gmail&logoColor=black" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-5076bd?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/>
   </a>
   
   <a href="https://github.com/Nima-Shaheswarzadeh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-00F0FF?style=for-the-badge&logo=GitHub&logoColor=black" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-5076bd?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/>
   </a>
-
-</div>
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="30" height="30" /> Fun Fact & Favorite Tools
-
-<div align="center" style="background:#0d1117; padding:25px; border-radius:15px; margin:20px; border:1px solid #00F0FF33;">
-
-💡 **Fun Fact:**  
-*I can switch between designing pixel‑perfect UIs and coding immersive 3D worlds in Unity – all while sipping Persian tea.*
-
-<br/>
-
-🛠️ **Favorite Tools:**
-<p>
-  <img src="https://img.icons8.com/color/48/000000/unity.png" alt="Unity" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" alt="Illustrator" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40"/>
-</p>
 
 </div>
 
@@ -151,7 +129,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" /> Today's Quote
 
-<div align="center" style="font-size:18px; color:#00F0FF; background:#0d1117; padding:20px; border-radius:12px; border-left:5px solid #00F0FF; margin:20px; max-width:600px;">
+<div align="center" style="font-size:18px; color:#5076bd; background:#0d1117; padding:20px; border-radius:12px; border-left:5px solid #5076bd; margin:20px; max-width:600px;">
   
   > *"The best way to predict the future is to invent it."*  
   – Alan Kay
@@ -171,7 +149,7 @@
   </picture>
   
   <br/>
-  <i>🐍 Eating my contributions, one pixel at a time!</i>
+  <i>🐍 Eating my contributions, one pixel at a time! (After you set up the workflow)</i>
 
 </div>
 
@@ -181,13 +159,13 @@
 <div align="center" style="color:#888888; margin-top:50px;">
   <p>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Heart" width="20" height="20" /> 
-    Crafted with passion by <strong style="color:#00F0FF;">Nima Shaheswarzadeh</strong> 
+    Crafted with passion by <strong style="color:#5076bd;">Nima Shaheswarzadeh</strong> 
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Heart" width="20" height="20" />
   </p>
   <p style="font-size:12px;">© 2025 – All rights reserved.</p>
 </div>
 
 <!-- Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=200&section=footer&text=&fontSize=0" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5076bd&height=200&section=footer&text=&fontSize=0" width="100%" />
 
 </div>
