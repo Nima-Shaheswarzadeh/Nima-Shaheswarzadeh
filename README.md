@@ -103,19 +103,19 @@
 
 <div align="center">
   
-  <a href="https://your-website.com" target="_blank">
+  <a href="https://Nima-Shaheswarzadeh.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Website-5076bd?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
   </a>
   
-  <a href="https://instagram.com/yourusername" target="_blank">
+  <a href="https://www.instagram.com/nima_shaheswarzadeh" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-5076bd?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
   
-  <a href="https://t.me/yourusername" target="_blank">
+  <a href="https://t.me/Nima_Shaheswarzadeh" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-5076bd?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
   </a>
   
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:nima.shaheswarzadeh@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-5076bd?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/>
   </a>
   
